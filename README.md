@@ -15,6 +15,6 @@
 
 | 项目 | 功能 |
 | :--- | :--- |
-| **[UniFi Policy Manager ↗](https://github.com/autunn/unifi-policy-manager)** | Windows / macOS 原生工具。预览 DNS、ACL 和防火墙策略差异，应用前保存快照。 |
+| **[UniFi Network Manager ↗](https://github.com/autunn/unifi-network-manager)** | Windows / macOS 原生工具。预览 DNS、ACL 和防火墙策略差异，应用前保存快照。 |
 | **[NasNotify-Go ↗](https://github.com/autunn/nasnotify_go)** | 绿联 NAS 通知与控制中心。用 Go + Vite 构建，支持微信状态卡片。 |
 | **[Home Assistant Digital Twin ↗](https://github.com/autunn/home-assistant-digital-twin)** | 用 Three.js 把 3D 场景接入 Home Assistant 仪表盘，附 Docker Compose 部署配置。 |
