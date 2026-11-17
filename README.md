@@ -7,10 +7,10 @@
 ## 代表作品
 
 
-<a href="https://autunn.github.io/"><img src="https://raw.githubusercontent.com/autunn/autunn.github.io/main/site/assets/carplay-wireless.png" alt="Autunn Play 当前的无线 CarPlay 连接界面（本地渲染预览）" width="100%"></a>
+<a href="https://autunn.github.io/"><img src="https://raw.githubusercontent.com/autunn/autunn.github.io/main/site/assets/carplay-wireless.png" alt="AutPlay 当前的无线 CarPlay 连接界面（本地渲染预览）" width="100%"></a>
 
 
-**Autunn Play** · 红旗 HS5 的 CarPlay 适配项目。[查看项目官网 ↗](https://autunn.github.io/)
+**AutPlay** · 红旗 HS5 的 CarPlay 适配项目。[查看项目官网 ↗](https://autunn.github.io/)
 
 
 | 项目 | 功能 |
